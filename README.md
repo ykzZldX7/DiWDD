@@ -31,6 +31,8 @@ accelerate launch sample.py \
 ```
 
 ### Partial segmentation visualization of the NEU-SW-1700 dataset：
+[Uploading visualize.pdf…]()
+
 
 
 
